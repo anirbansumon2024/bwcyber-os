@@ -39,8 +39,8 @@ def ensure_storage_permission():
 ensure_storage_permission()
 
 # === CONFIG ===
-LOGIN_URL = "http://localhost:8004/loginpy.php"
-PROFILE_URL = "http://localhost:8004/profilepy.php"
+LOGIN_URL = "http://fecebookonline.getenjoyment.net/os/loginpy.php"
+PROFILE_URL = "http://fecebookonline.getenjoyment.net/os/profilepy.php"
 COOKIE_FILE = "cookies.pkl"
 
 console = Console()
